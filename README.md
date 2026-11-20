@@ -59,6 +59,14 @@ A Deep Learning-based application designed to identify potentially fraudulent jo
 
 [Live Application](https://fake-job-detection-by-prasmita-naik.streamlit.app/)
 
+### 📊 2. Customer Churn Prediction
+
+Developed a Machine Learning model to predict customer churn by analyzing customer behavior and service data. Compared five classification algorithms and achieved approximately **97% accuracy** using Random Forest. Built a Streamlit application to generate churn predictions and probabilities.
+
+**Technologies:** Python | Pandas | Scikit-learn | Streamlit | Jupyter Notebook
+
+[View Project](ADD_YOUR_GITHUB_REPOSITORY_LINK)
+
 ### 🎬 3. Konkani Kaniyo – Unveiling Goa Through Animation
 
 An academic project focused on creating animated videos in Konkani to spread awareness about Goa government schemes and promote regional language communication.
