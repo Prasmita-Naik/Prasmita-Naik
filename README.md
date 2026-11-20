@@ -1,130 +1,269 @@
-# Hi 👋, I'm Prasmita Naik
+ <div align="center">
 
-###  Data Analyst | Data Science | Machine Learning | Deep Learning | NLP
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00C9A7&height=230&section=header&text=Prasmita%20Naik&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20INNOVATION&descSize=18&descAlignY=62&animation=fadeIn" />
 
-I am passionate about exploring data, building intelligent solutions, and using Machine Learning and Artificial Intelligence to solve real-world problems.
+<h3>
+  📊 Data Analyst &nbsp;|&nbsp; Data Science Enthusiast &nbsp;|&nbsp; Machine Learning Explorer &nbsp;|&nbsp; Deep Learning Enthusiast &nbsp;|&nbsp; NLP
+</h3>
 
----
+<p>
+  <a href="https://github.com/Prasmita-Naik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prasmita-naik-769902423/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prasmita-Naik&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+</p>
 
-## 👩‍💻 About Me
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-00C9A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exploring-Machine%20Learning-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interests-Deep%20Learning-8A2BE2?style=flat-square"/>
 
-- 📊 Interested in **Data Analytics, Data Science, Machine Learning and Artificial Intelligence**
-- 🐍 Working with **Python, SQL, Pandas and NumPy** for data analysis and data manipulation
-- 📈 Exploring data visualization and dashboard development using **Power BI and Excel**
-- 🤖 Building Machine Learning and Deep Learning projects using **RNN, LSTM and NLP**
-- 🧠 Interested in exploring **Generative AI, Large Language Models (LLMs) and RAG applications**
-- 📚 Continuously learning new technologies and strengthening my practical skills
-- 🚀 Passionate about transforming data into meaningful insights and developing data-driven solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages & Databases
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Analytics & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Machine Learning & Deep Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🌸 ABOUT ME</h2>
 
-### 🤖 1. Fake Job Detection – JobGuard AI
+Hello! I'm **Prasmita Naik**, an aspiring Data Analyst and Data Science professional with a background in Computer Engineering.
 
-A Deep Learning-based application designed to identify potentially fraudulent job postings using Natural Language Processing and a Simple Recurrent Neural Network (SimpleRNN).
+I enjoy working with data, identifying hidden patterns, developing predictive models, and building applications that turn analytical ideas into practical solutions.
 
-**Technologies:** Python | NLP | SimpleRNN | TensorFlow | Streamlit
+My interests cover the complete data journey — from data cleaning and exploratory data analysis to machine learning, deep learning, NLP, and intelligent application development.
 
-[Live Application](https://fake-job-detection-by-prasmita-naik.streamlit.app/)
-
-### 📊 2. Customer Churn Prediction
-
-Developed a Machine Learning model to predict customer churn by analyzing customer behavior and service data. Compared five classification algorithms and achieved approximately **97% accuracy** using Random Forest. Built a Streamlit application to generate churn predictions and probabilities.
-
-**Technologies:** Python | Pandas | Scikit-learn | Streamlit | Jupyter Notebook
-
-[View Project](ADD_YOUR_GITHUB_REPOSITORY_LINK)
-
-### 🎬 3. Konkani Kaniyo – Unveiling Goa Through Animation
-
-An academic project focused on creating animated videos in Konkani to spread awareness about Goa government schemes and promote regional language communication.
-
-Contributed to research, literature survey, technical documentation, project reporting, and conference paper preparation. The paper was selected for an IEEE conference.
-
-**Technologies & Tools:** Adobe Character Animator | Adobe Premiere Pro | After Effects | Audition | Research | Technical Documentation
-
-[Add your publication or project link here]
-
-### 🚆 4. Vande Bharat and Indian Railways Performance Analysis
-
-A Power BI analytics project focused on exploring railway punctuality, occupancy, and route-wise demand to identify operational trends and performance insights.
-
-**Technologies:** Power BI | Microsoft Excel | Data Cleaning | Data Visualization | Dashboard Development
-
-🚧 Currently developing the dashboard and project insights.
+- 🔍 Exploring datasets to discover meaningful insights.
+- 📊 Building interactive dashboards and data visualisations.
+- 🤖 Developing machine learning and deep learning models.
+- 🧠 Exploring NLP, RNN, LSTM, and neural networks.
+- 🚀 Turning project ideas into practical applications.
+- 🌱 Continuously learning emerging technologies.
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">💎 TECHNICAL TOOLKIT</h2>
 
-- Machine Learning Algorithms
-- Deep Learning Architectures
-- Recurrent Neural Networks (RNN)
-- Long Short-Term Memory (LSTM)
-- Natural Language Processing (NLP)
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation (RAG)
+<h3>Languages & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<h3>Data Analysis & Visualization</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+<h3>Machine Learning & Deep Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+<h3>Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-- 📄 Contributed to the IEEE conference-selected paper **"Konkani Kaniyo: Unveiling Goa Through Animation."**
-- 🎓 Continuously developing practical knowledge through Data Science and Machine Learning projects.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎬 Screenora</h3>
+
+**Movie & Series Recommendation System**
+
+A Streamlit-based recommendation platform that helps users discover movies and TV shows through semantic search and similarity-based recommendations.
+
+- Sentence Transformer embeddings
+- FAISS similarity search
+- Genre filtering and watchlist
+- Movie and series discovery
+
+**Stack:** Python · Streamlit · FAISS · NLP
+
+<a href="https://github.com/Prasmita-Naik/Screenora-Movie-Recommendation-System">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📉 Customer Churn Prediction</h3>
+
+**Machine Learning & Customer Retention**
+
+A machine learning application that predicts customers who may leave a service based on customer-related information.
+
+- Data preprocessing and EDA
+- Comparison of classification algorithms
+- Random Forest prediction model
+- Interactive Streamlit application
+
+**Stack:** Python · Pandas · Scikit-learn · Streamlit
+
+<a href="https://github.com/Prasmita-Naik/Predict-Customer-Churn-with-Machine-Learning">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛡️ Fake Job Detection</h3>
+
+**Fraudulent Job Posting Classification**
+
+A deep learning application that classifies job postings as potentially fraudulent or legitimate using text-based information.
+
+- Text preprocessing and tokenization
+- SimpleRNN implementation
+- Deep learning classification
+- Streamlit deployment
+
+**Stack:** Python · NLP · TensorFlow · Keras · SimpleRNN
+
+<a href="https://github.com/Prasmita-Naik/fake-job-detection">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00A67E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌊 Underwater Image Enhancement</h3>
+
+**Image Enhancement & Classification**
+
+A computer vision project focused on improving underwater image quality and exploring image classification techniques.
+
+- Image preprocessing
+- Image resizing and enhancement
+- Classification workflow
+- Deep learning exploration
+
+**Stack:** Python · OpenCV · CNN · Deep Learning
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>🎞️ Konkani Kaniyo – Unveiling Goa Through Animation</h3>
+
+**IEEE Conference Project**
+
+An educational animation project that communicates information about Goa government schemes through Konkani-language animated videos.
+
+- Research and literature survey
+- Technical documentation and project reporting
+- Conference paper preparation
+- Project presentation at an IEEE conference
+
+**Tools:** Adobe Character Animator · Premiere Pro · After Effects · Audition · Photoshop
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">📈 MY DATA SCIENCE WORKFLOW</h2>
 
-I'm always interested in learning, sharing ideas, collaborating on projects, and connecting with people in Data Analytics, Data Science, Machine Learning, and Artificial Intelligence.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasmita-naik-769902423/)
+| Stage | What I Do |
+|:---:|---|
+| 🔍 01 | **Understand** – Define the problem and objectives |
+| 🧹 02 | **Prepare** – Clean, transform, and preprocess data |
+| 📊 03 | **Explore** – EDA, statistics, and pattern discovery |
+| 🤖 04 | **Develop** – Build and evaluate ML/DL models |
+| 📈 05 | **Communicate** – Visualise findings and insights |
+| 🚀 06 | **Deliver** – Develop practical applications |
 
-⭐ Feel free to explore my repositories and follow my learning journey!## Hi there 👋
+</div>
 
-<!--
-**Prasmita-Naik/Prasmita-Naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2>🎓 EDUCATION & LEARNING JOURNEY</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Computer Engineering**
+
+⬇️
+
+📚 **Postgraduate Program in Data Science**
+
+⬇️
+
+💻 **Building Practical Data Science Projects**
+
+⬇️
+
+🌱 **Exploring Machine Learning · Deep Learning · NLP · Generative AI**
+
+</div>
+
+---
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasmita-Naik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasmita-Naik&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Prasmita-Naik&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<h2 align="center">🌱 CURRENT INTERESTS</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analytics-Exploring-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Building-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Experimenting-EF6C9B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-F59E0B?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">📬 LET'S CONNECT</h2>
+
+<div align="center">
+
+I'm always interested in connecting with people who enjoy working with data, exploring technology, and solving real-world problems.
+
+<a href="https://www.linkedin.com/in/prasmita-naik-769902423/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prasmita-Naik">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<h3>✨ Think Analytically. Build Intelligently. Create Impact.</h3>
+
+⭐ Thanks for visiting my profile! ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4169E1,100:8A2BE2&height=110&section=footer"/>
+
+</div>
