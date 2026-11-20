@@ -59,14 +59,6 @@ A Deep Learning-based application designed to identify potentially fraudulent jo
 
 [Live Application](https://fake-job-detection-by-prasmita-naik.streamlit.app/)
 
-### 🌊 2. Underwater Image Enhancement and Classification
-
-A Deep Learning project focused on improving underwater image quality and performing image classification to explore underwater visual information.
-
-**Technologies:** Python | Deep Learning | CNN | Image Processing | Computer Vision
-
-[Add your GitHub repository link here]
-
 ### 🎬 3. Konkani Kaniyo – Unveiling Goa Through Animation
 
 An academic project focused on creating animated videos in Konkani to spread awareness about Goa government schemes and promote regional language communication.
